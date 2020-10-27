@@ -95,7 +95,7 @@ let footer = $(`
       <div class="col-lg-7 col-md-6 pt-3" >
         
       <h4 class="webintern_footer_title h4" >
-      <small style="font-size:1.6vw">  Connect </small>
+      <small style="font-size:70%">  Connect </small>
     </h4>
     
       <div class="col-sm-6 col-md-7">
@@ -129,7 +129,7 @@ let footer = $(`
 
       <div class="col-sm-6 col-md-5 pt-3 footer-2">
       <h4 class="webintern_footer_title h4" >
-      <small style="font-size:1.6vw">  CONTACT </small>
+      <small style="font-size:70%">  CONTACT </small>
     </h4>
 
     <div class="empty-space xs-25 sm-25"><br></div>
