@@ -22,7 +22,7 @@ const moocscards = [
     moocLink: "https://cognitiveclass.ai/courses/introduction-deep-learning",
   },
   {
-    title: "Intro to Deep Learning with PyTorch",
+    title: "Deep Learning with PyTorch",
     cardImage: "assets/images/education-page/udacity_logo.png",
     moocLink: "https://www.udacity.com/course/deep-learning-pytorch--ud188",
   },
