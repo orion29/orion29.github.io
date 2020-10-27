@@ -104,7 +104,7 @@ let footer = $(`
         </a>
         <div class="simple-text text-center dark padding-sm">
           
-        <div class="empty-space xs-25 sm-25"><br></div>
+        <div class="empty-space xs-25 sm-25"></div>
       </div>
     </div>
     <!-- Social media icons for footer -->
@@ -123,7 +123,6 @@ let footer = $(`
       <a class="social-icon-footer twitter" href="" target="_blank" rel="author">
     <i class="fab fa-twitter"></i>
       </a>
-  <br>
 <p style="color:white;><a href=" "></a></p>
 </div>
     </div>
@@ -133,7 +132,7 @@ let footer = $(`
       <small style="font-size:1.6vw">  CONTACT </small>
     </h4>
 
-    <div class="empty-space xs-25 sm-25"><br><br></div>
+    <div class="empty-space xs-25 sm-25"><br></div>
     <div class="social-icons-footer">
 
 <a class="social-icon-footer linkedin" href="https://mail.google.com/mail/?view=cm&fs=1&to=kunal.jethuri@gmail.com" target="_blank" rel="author">
