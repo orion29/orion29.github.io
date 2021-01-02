@@ -89,7 +89,12 @@ const badgesection = [
   {
     title: "Machine Learning with Python ",
     image: "https://images.youracclaim.com/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png",
-    description: "Earned May 20, 2020",
+    description: "Earned May 20, 2019",
+  },
+  {
+    title: "Data Analysis Using Python ",
+    image: "https://images.youracclaim.com/size/680x680/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png",
+    description: "Earned Nov 20, 2019",
   },
  
 ];
