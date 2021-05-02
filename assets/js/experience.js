@@ -15,7 +15,7 @@ const exp = [
     cardImage: "assets/images/experience-page/fellowship.png",
     place: "Fellowship.AI",
     time: "(January - April, 2021)",
-    desp: "<li>Worked on fine tuning a multi modal zero shot learner for in oven food classification using CLIP model.</li> <li>Created and deployed a custom designed app to showcase the results.</li> <li> Built a Spoken Language Identification model using Mel spectrogram and convolution recurrent neural network.</li> ",
+    desp: "<li>Worked on fine tuning a multi modal zero shot learner for in oven food classification using CLIP model.</li> <li>Created and deployed a custom designed app to showcase the results.</li> ",
   },
     
   
