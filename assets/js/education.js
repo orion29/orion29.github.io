@@ -16,6 +16,11 @@ const moocscards = [
     cardImage: "assets/images/education-page/cog.webp",
     moocLink: "https://cognitiveclass.ai/courses/machine-learning-with-python",
   },
+   {
+    title: "Data Analysis Using Python",
+    cardImage: "assets/images/education-page/cog.webp",
+    moocLink: "https://cognitiveclass.ai/courses/data-analysis-python",
+  },
   {
     title: "Deep Learning Fundamentals",
     cardImage: "assets/images/education-page/cog.webp",
@@ -36,6 +41,11 @@ const moocscards = [
     title: "Sequence Models",
     cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.coursera.org/learn/nlp-sequence-models",
+  },
+  {
+    title: "Natural Language Processing with Attention Models",
+    cardImage: "assets/images/education-page/coursera1.png",
+    moocLink: "https://www.coursera.org/learn/attention-models-in-nlp",
   },
   
   
