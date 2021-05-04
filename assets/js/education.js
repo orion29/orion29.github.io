@@ -43,7 +43,7 @@ const moocscards = [
     moocLink: "https://www.coursera.org/learn/nlp-sequence-models",
   },
   {
-    title: "Natural Language Processing with Attention Models",
+    title: "NLP with Attention",
     cardImage: "assets/images/education-page/coursera1.png",
     moocLink: "https://www.coursera.org/learn/attention-models-in-nlp",
   },
