@@ -109,7 +109,7 @@ const badgesection = [
   {
     title: "Deep Learning Essentials ",
     image: "https://images.credly.com/size/680x680/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png",
-    description: "Earned Nov 20 2019",
+    description: "Earned Nov 2019",
   },
  
 ];
