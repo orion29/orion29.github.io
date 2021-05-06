@@ -99,12 +99,17 @@ const badgesection = [
   {
     title: "Machine Learning with Python ",
     image: "https://images.youracclaim.com/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png",
-    description: "Earned May 20, 2019",
+    description: "Earned May 2019",
   },
   {
     title: "Data Analysis Using Python ",
     image: "https://images.youracclaim.com/size/680x680/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png",
-    description: "Earned Nov 20, 2019",
+    description: "Earned Jul 2019",
+  },
+  {
+    title: "Deep Learning Essentials ",
+    image: "https://images.credly.com/size/680x680/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png",
+    description: "Earned Nov 20 2019",
   },
  
 ];
