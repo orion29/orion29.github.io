@@ -4,18 +4,27 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/drdo.png",
-    place: "Defence Research and Development Organization",
-    time: "(June - Sept, 2019)",
-    desp: "<li> Worked on several Natural Language Processing projects such as Sentiment Analysis, Voice recognition, etc.</li> <li> Built a Spoken Language Identification model using Mel spectrogram and convolution recurrent neural network.</li> ",
+    title: "Algorithm Developer",
+    cardImage: "https://digitate.com/wp-content/uploads/ct-logos/logo_12d2802ea5ca1dc2b67da2edc7ad99c7_2x.png",
+    place: "Digitate",
+    time: "(August, 2021 - Present)",
+    desp: "<li>Working on developing new algorithms in the field of Machine Learning and Deep Learning for Digitate's Ignio.</li> ",
   },
+  
+ 
   {
     title: "Data Science Fellow",
     cardImage: "assets/images/experience-page/fellowship.png",
     place: "Fellowship.AI",
     time: "(January - April, 2021)",
     desp: "<li>Worked on fine tuning a multi modal zero shot learner for in oven food classification using CLIP model.</li> <li>Created and deployed a custom designed app to showcase the results.</li> ",
+  },
+   {
+    title: "Research Intern",
+    cardImage: "assets/images/experience-page/drdo.png",
+    place: "Defence Research and Development Organization",
+    time: "(June - Sept, 2019)",
+    desp: "<li> Worked on several Natural Language Processing projects such as Sentiment Analysis, Voice recognition, etc.</li> <li> Built a Spoken Language Identification model using Mel spectrogram and convolution recurrent neural network.</li> ",
   },
     
   
