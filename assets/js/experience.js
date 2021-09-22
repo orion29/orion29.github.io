@@ -5,7 +5,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Algorithm Developer",
-    cardImage: "https://digitate.com/wp-content/uploads/ct-logos/logo_12d2802ea5ca1dc2b67da2edc7ad99c7_2x.png",
+    cardImage: "https://i1.wp.com/digitate.com/wp-content/uploads/2020/10/Digitate-Featured-Image.png?fit=835%2C626&ssl=1",
     place: "Digitate",
     time: "(August, 2021 - Present)",
     desp: "<li>Working on developing new algorithms in the field of Machine Learning and Deep Learning for Digitate's Ignio.</li> ",
